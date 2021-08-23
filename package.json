@@ -1,0 +1,19 @@
+{
+  "name": "s9-node.js-y-express",
+  "version": "1.0.0",
+  "description": "tarea 2",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Peñarrieta Guale",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
